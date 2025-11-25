@@ -129,7 +129,6 @@ A true **structured memory graph** for a **Noogenic Mind**.
 
 ---
 
-If you want, I can also:
-📌 Generate a **README.md** version
-📌 Add tables, diagrams (Mermaid), or system schematics
-📌 Convert this into a formal architecture spec or whitepaper format
+To-do:
+- 📌 Add tables, diagrams (Mermaid), or system schematics
+- 📌 Convert this into a formal architecture spec or whitepaper format
