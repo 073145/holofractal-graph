@@ -152,13 +152,36 @@ Check the examples folder
 ---
 
 ## 📂 Folder Structure
+
+~~~
 indra-lattice/
-│
-├─ indra_lattice/      # Core Python library
-├─ examples/           # Sample nodes, queries, and visualizations
-├─ docs/               # Diagrams, GIFs, explanations
-├─ tests/              # Unit tests
+├─ indra_lattice/        # Core Python library / package
+│  ├─ __init__.py
+│  ├─ graph.py           # Graph and node classes
+│  ├─ routing.py         # Cognitive routing / search
+│  └─ utils.py           # Utility functions
+├─ examples/             # Example scripts and notebooks
+│  ├─ basic_usage.py
+│  ├─ interactive_demo.ipynb
+│  └─ visualization_examples/
+│     ├─ fractal_graph_demo.py
+│     └─ dashboard_example.py
+├─ docs/                 # Documentation, diagrams, and media
+│  ├─ README_IMAGES/
+│  │  ├─ indra_lattice_concept.png
+│  │  └─ graph_example.gif
+│  ├─ architecture.md
+│  └─ tutorials.md
+├─ tests/                # Unit and integration tests
+│  ├─ test_graph.py
+│  ├─ test_routing.py
+│  └─ test_utils.py
+├─ requirements.txt      # Python dependencies
+├─ setup.py              # Package setup (optional)
+├─ pyproject.toml        # Build system config (optional)
+├─ LICENSE
 └─ README.md
+~~~
 
 ---
 
