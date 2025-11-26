@@ -189,11 +189,11 @@ indra-lattice/
 
 Contributions are welcome! Please open issues or pull requests for:
 
-Adding new visualization methods
+- Adding new visualization methods
 
-Extending cognitive routing examples
+- Extending cognitive routing examples
 
-Improving documentation and diagrams
+- Improving documentation and diagrams
 
 ---
 
